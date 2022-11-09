@@ -1,8 +1,8 @@
-const msg: string = "hello world"
+const msg = "hello world"
 teste(msg)
 
-function teste(msg: string): void {
+function teste(msg: string) {
     console.log(msg)
 }
 
-export default teste
+export default teste 
